@@ -4,6 +4,7 @@ Dutch digital agency building AI-powered business tools — and giving them away
 
 **Open source:**
 
+- [Hermes × Antigravity](https://github.com/MarketingBoer/hermes-antigravity-free-agents) — Free AI second opinions for Hermes agents through the native Antigravity CLI. Code reviews, debugging, live quota checks. MIT.
 - [whatsapp-readonly-bridge](https://github.com/MarketingBoer/whatsapp-readonly-bridge) — Read WhatsApp messages via the official Meta Cloud API. Discuss them on Telegram. 100% free, zero dependencies, zero ban risk.
 
 **What we do:**
